@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\user\Downloads\RhythmGame_KEJ\RhythmGame_KEJ\main.c(10,9): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\user\Downloads\RhythmGame_KEJ\RhythmGame_KEJ\main.c(46,27): warning C4047: '함수': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Downloads\RhythmGame_KEJ\RhythmGame_KEJ\main.c(46,21): warning C4024: 'ScreenPrint': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+  RhythmGame2.vcxproj -> C:\Users\user\source\repos\RhythmGame2\Debug\RhythmGame2.exe
